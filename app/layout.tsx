@@ -15,7 +15,7 @@ const mono = Geist_Mono({
   display: "swap",
 });
 
-const SITE_URL = "https://qualia-cx.vercel.app";
+const SITE_URL = "https://qualia-psi.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
