@@ -11,3 +11,12 @@ next-env.d.ts
 /_imggen
 
 .vercel
+
+# Local generation/review artifacts
+/source-assets
+/qualia-*-contact.jpg
+/qualia-imagegen-start.txt
+/qualia-local-*.png
+/qualia-prod-*.png
+*.log
+*.pid

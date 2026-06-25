@@ -1,0 +1,7 @@
+source-assets
+qualia-*-contact.jpg
+qualia-imagegen-start.txt
+qualia-local-*.png
+qualia-prod-*.png
+*.log
+*.pid
